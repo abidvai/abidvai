@@ -12,7 +12,7 @@ Collaborative developer dedicated to fostering clear communication, mutual respe
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Kotlin, Jetpack Compose**
+- 🌱 I’m currently learning **Python, Ktor, KMP**
 
 - 💬 Ask me about **Android**
 
@@ -44,7 +44,6 @@ Collaborative developer dedicated to fostering clear communication, mutual respe
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abidvai&show_icons=true&theme=transparent" />
 </a>
-
 
 ![GitHub metrics](https://metrics.lecoq.io/abidvai)  
 
