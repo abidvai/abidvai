@@ -48,6 +48,4 @@ Collaborative developer dedicated to fostering clear communication, mutual respe
 ![GitHub metrics](https://metrics.lecoq.io/abidvai)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abidvai)  
-
-![GitHub metrics](https://metrics.lecoq.io/abidvai)  
  
