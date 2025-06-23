@@ -4,7 +4,7 @@
 </div>
 
 ### I'm Abdullah Al Abid
-#### Android Developer || Programmer || Problem Solver
+#### Flutter(androidXios) Developer || Programmer || Problem Solver
 
 Collaborative developer dedicated to fostering clear communication, mutual respect, and continuous learning within tech teams
 
