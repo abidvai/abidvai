@@ -14,7 +14,7 @@ Collaborative developer dedicated to fostering clear communication, mutual respe
 
 - 🌱 I’m currently learning **Python, Django, Backend functionality**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **abdullahabid1660@gmail.com**
 
